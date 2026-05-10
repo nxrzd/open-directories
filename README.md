@@ -45,7 +45,7 @@ https://odfinder.github.io/
 
 *dead* https://opendirectorysearch.tk/
 
-http://eyeofjustice.com/od/
+*dead* http://eyeofjustice.com/od/
 
 https://opendirsearch.abifog.com/
 
