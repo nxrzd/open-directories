@@ -49,7 +49,7 @@ https://odfinder.github.io/
 
 https://opendirsearch.abifog.com/
 
-https://opndir.com/
+*dead* https://opndir.com/
 
 https://maximousblk.github.io/strixx/
 
