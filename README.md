@@ -13,17 +13,7 @@ https://opendirsearch.abifog.com/
 
 https://ewasion.github.io/opendirectory-finder/
 
-*dead* https://www.eyeofjustice.com/od/ 
-
 http://file-extension.net/seeker/
-
-*dead* http://filechef.com/
-
-*dead* https://filepursuit.com/
-
-*dead* http://www.fonetask.com/
-
-*dead* http://www.giitit.com/
 
 https://lumpysoft.com/
 
@@ -37,20 +27,30 @@ https://lumpysoft.com/
 
 https://doyou.needmorehdd.space/
 
+https://odfinder.github.io/
+
+https://opendirsearch.abifog.com/
+
+http://torrbot.com/
+
 *dead* https://open-directories.reecemercer.dev/
 
 *dead* https://od-db.the-eye.eu/
-
-https://odfinder.github.io/
 
 *dead* https://opendirectorysearch.tk/
 
 *dead* http://eyeofjustice.com/od/
 
-https://opendirsearch.abifog.com/
-
 *dead* https://opndir.com/
 
-https://maximousblk.github.io/strixx/
+*dead* https://maximousblk.github.io/strixx/
 
-http://torrbot.com/
+*dead* http://filechef.com/
+
+*dead* https://filepursuit.com/
+
+*dead* http://www.fonetask.com/
+
+*dead* http://www.giitit.com/
+
+*dead* https://www.eyeofjustice.com/od/ 
