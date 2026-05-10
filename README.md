@@ -3,7 +3,17 @@ List of Open Directories<br/>
 
 https://ewasion.github.io/opendirectory-finder/
 
-https://www.eyeofjustice.com/od/
+https://eyedex.org
+
+https://lumpysoft.com/
+
+https://odcrawler.xyz/
+
+https://opendirsearch.abifog.com/
+
+https://ewasion.github.io/opendirectory-finder/
+
+*dead* https://www.eyeofjustice.com/od/ 
 
 http://file-extension.net/seeker/
 
