@@ -37,7 +37,7 @@ https://lumpysoft.com/
 
 https://doyou.needmorehdd.space/
 
-https://open-directories.reecemercer.dev/
+*dead* https://open-directories.reecemercer.dev/
 
 https://od-db.the-eye.eu/
 
