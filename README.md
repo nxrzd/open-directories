@@ -39,7 +39,7 @@ https://doyou.needmorehdd.space/
 
 *dead* https://open-directories.reecemercer.dev/
 
-https://od-db.the-eye.eu/
+*dead* https://od-db.the-eye.eu/
 
 https://odfinder.github.io/
 
