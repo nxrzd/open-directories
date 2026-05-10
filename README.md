@@ -43,7 +43,7 @@ https://doyou.needmorehdd.space/
 
 https://odfinder.github.io/
 
-https://opendirectorysearch.tk/
+*dead* https://opendirectorysearch.tk/
 
 http://eyeofjustice.com/od/
 
