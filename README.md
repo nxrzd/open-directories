@@ -19,7 +19,7 @@ http://file-extension.net/seeker/
 
 *dead* http://filechef.com/
 
-https://filepursuit.com/
+*dead* https://filepursuit.com/
 
 http://www.fonetask.com/
 
