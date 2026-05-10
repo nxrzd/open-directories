@@ -23,7 +23,7 @@ http://file-extension.net/seeker/
 
 *dead* http://www.fonetask.com/
 
-http://www.giitit.com/
+*dead* http://www.giitit.com/
 
 https://lumpysoft.com/
 
