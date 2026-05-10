@@ -21,7 +21,7 @@ http://file-extension.net/seeker/
 
 *dead* https://filepursuit.com/
 
-http://www.fonetask.com/
+*dead* http://www.fonetask.com/
 
 http://www.giitit.com/
 
