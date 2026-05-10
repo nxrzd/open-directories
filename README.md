@@ -17,7 +17,7 @@ https://ewasion.github.io/opendirectory-finder/
 
 http://file-extension.net/seeker/
 
-http://filechef.com/
+*dead* http://filechef.com/
 
 https://filepursuit.com/
 
